@@ -14,6 +14,8 @@ Me apasiona crear soluciones digitales, aprender nuevas tecnologías y afrontar 
 * Hibernate
 * REST APIs
 * Maven
+* Python
+* Docker
 
 ### 🎨 Frontend
 
@@ -22,6 +24,7 @@ Me apasiona crear soluciones digitales, aprender nuevas tecnologías y afrontar 
 * JavaScript
 * React
 * Vite
+* Typescript
 
 ### 🗄️ Bases de datos
 
