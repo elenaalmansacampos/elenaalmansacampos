@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Elena Almansa
 
-Soy **Webmaster** con más de 10 años de experiencia en el desarrollo, mantenimiento y gestión de sitios web corporativos. Actualmente estoy ampliando mi perfil como **Full Stack Java Developer**, desarrollando aplicaciones web y APIs REST con tecnologías modernas.
+Soy **Webmaster** con más de 20 años de experiencia en el desarrollo, mantenimiento y gestión de sitios web corporativos. Actualmente estoy ampliando mi perfil como **Full Stack Java Developer**, desarrollando aplicaciones web y APIs REST con tecnologías modernas.
 
 Me apasiona crear soluciones digitales, aprender nuevas tecnologías y afrontar retos que me permitan seguir creciendo como desarrolladora. En este perfil encontrarás proyectos realizados durante mi formación y otros desarrollos personales, donde aplico buenas prácticas de programación, arquitectura MVC y metodologías de trabajo colaborativo.
 
